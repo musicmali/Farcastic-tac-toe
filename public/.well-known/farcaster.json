@@ -1,4 +1,9 @@
 {
+  "accountAssociation": {
+    "header": null,
+    "payload": null,
+    "signature": null
+  },
   "miniapp": {
     "name": "Tic-Tac-Toe MiniApp",
     "description": "A simple tic-tac-toe game where you play against the CPU.",
