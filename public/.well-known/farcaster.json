@@ -7,22 +7,22 @@
   "miniapp": {
     "version": "1",
     "name": "Tic-Tac-Toe MiniApp",
-    "homeUrl": "https://yourdomain.com",
-    "iconUrl": "https://yourdomain.com/icon.png",
-    "splashImageUrl": "https://yourdomain.com/splash.png",
+    "homeUrl": "https://farcastic-tac-toe.vercel.app",
+    "iconUrl": "https://farcastic-tac-toe.vercel.app/images/icon.png",
+    "splashImageUrl": "https://farcastic-tac-toe.vercel.app/images/splash.png",
     "splashBackgroundColor": "#FFFFFF",
-    "heroImageUrl": "https://yourdomain.com/hero.png",
+    "heroImageUrl": "https://farcastic-tac-toe.vercel.app/images/hero.png",
     "tagline": "Play Tic-Tac-Toe against the CPU",
     "description": "A simple tic-tac-toe game where you play against the CPU.",
     "screenshotUrls": [
-      "https://yourdomain.com/screenshot1.png",
-      "https://yourdomain.com/screenshot2.png"
+      "https://farcastic-tac-toe.vercel.app/images/screenshot1.png",
+      "https://farcastic-tac-toe.vercel.app/images/screenshot2.png"
     ],
     "primaryCategory": "games",
     "tags": ["tic-tac-toe", "game", "miniapp"],
     "ogTitle": "Tic-Tac-Toe MiniApp",
     "ogDescription": "Play a classic game of tic-tac-toe against the CPU.",
-    "ogImageUrl": "https://yourdomain.com/og-image.png"
+    "ogImageUrl": "https://farcastic-tac-toe.vercel.app/images/og-image.png"
   }
 }
 
