@@ -8,12 +8,7 @@
     "name": "Tic-Tac-Toe MiniApp",
     "description": "A simple tic-tac-toe game where you play against the CPU.",
     "iconUrl": "https://farcastic-tac-toe.vercel.app/images/icon.png",
-    "primaryCategory": "games",
-    "tags": ["tic-tac-toe", "game", "miniapp"],
-    "ogTitle": "Tic-Tac-Toe MiniApp",
-    "ogDescription": "Play a classic game of tic-tac-toe against the CPU.",
-    "ogImageUrl": "https://farcastic-tac-toe.vercel.app/images/og-image.png",
-    "heroImageUrl": "https://farcastic-tac-toe.vercel.app/images/hero.png"
+    "primaryCategory": "games"
   },
   "baseBuilder": {
     "ownerAddress": "0x8020eDa73aCAc4c192eEF47937C50808B39ED91c"
